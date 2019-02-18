@@ -8,4 +8,4 @@ This notebook is written for the python version 2.7.15
 
 ### Request for improvement
 I would like to improve the axis label of the first line chart **Average number of car deaths between 1999 and 2008** (remove the brackets and add ticks for every year).<br><br>
-On 2019-02-18, I removed the brackets from the x label. But I still would like to add a tick for every year.
+On 2019-02-18, I removed the brackets from the x label. But I still would like to add a tick for every year (change is realized in 190218-DataAnalysis-Project.ipynb).
